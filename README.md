@@ -7,7 +7,7 @@ You can contact with me by: <br/>
 [![facebook](https://icons.iconarchive.com/icons/yootheme/social-bookmark/48/social-facebook-box-blue-icon.png)](https://www.facebook.com/l.czebiolko)
 [![linkedin](https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Linkedin-icon.png)](https://www.linkedin.com/in/%C5%82ukasz-czebio%C5%82ko-937455267/)
 _______
-🔭 I’m currently working on my bachelor's thesis about XGboost and LSTM model to predict stock price of crude oil. <br/>
+🔭 I’m currently working on my bachelor's thesis about XGBoost and LSTM model to predict stock price of crude oil. <br/>
 🌱 I’m currently learning Deep Learning Specialization on Coursera.
 <!--
 **LukaszCzeb/LukaszCzeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
