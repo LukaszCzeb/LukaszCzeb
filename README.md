@@ -6,9 +6,7 @@ You can contact with me by: <br/>
 [![gmail](https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/48/Gmail-icon.png)](mailto:czebiolko.lukasz@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 [![facebook](https://icons.iconarchive.com/icons/yootheme/social-bookmark/48/social-facebook-box-blue-icon.png)](https://www.facebook.com/l.czebiolko)
 [![linkedin](https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Linkedin-icon.png)](https://www.linkedin.com/in/%C5%82ukasz-czebio%C5%82ko-937455267/)
-_______
-🔭 I’m currently working on my bachelor's thesis about XGBoost and LSTM model to predict stock price of crude oil. <br/>
-🌱 I’m currently learning Deep Learning Specialization on Coursera.
+
 <!--
 **LukaszCzeb/LukaszCzeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
